@@ -1,3 +1,10 @@
 div{
-    background-color: aqua;
+    background-color: rgb(166, 173, 169);
+}
+app-redes{
+    float: right;
+    margin-top: 25px;
+}
+app-banner{
+    
 }

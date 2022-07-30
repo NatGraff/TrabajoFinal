@@ -3,10 +3,10 @@
 }
 div{
     background-color:rgb(166, 173, 169);
-    text-align: center;
+    text-align: justify;
 }
 img{
-    width: 20%;
+    width:20%;
     height: 250px;
 }
 /*Etiqueta Nombre*/
@@ -21,7 +21,7 @@ img{
         #perfil{
         position: absolute;
         width: 15%;
-        border-radius: 80%;
+        border-radius: 70%;
         box-shadow: 3px 3px 3px grey;
         left: 2%;
         top:600px;

@@ -1,0 +1,24 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    background-color:rgb(166, 173, 169) ;
+}
+img{
+    
+    border-radius:1%;
+    box-shadow: 10px 10px 35px black;
+     
+}
+
+.contenedor{
+    width: auto;
+}
+.primero, .segundo{
+    display: inline-block;
+    text-align: justify;
+}
+
+
+

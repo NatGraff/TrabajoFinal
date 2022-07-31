@@ -23,11 +23,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "Trabajo-final/node_modules/bootstrap/dist/css/bootstrap.css"
+              "src/styles.css"
+              
               
             ],
-            "scripts": ["Trabajo-final/node_modules/bootstrap/dist/js/bootstrap.js"
+            "scripts": [
           
             ]
           },
@@ -94,9 +94,14 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "Trabajo-final/node_modules/bootstrap/dist/css/bootstrap.css"
+              
+            
             ],
-            "scripts": []
+            "scripts": ["Trabajo-final/node_modules/bootstrap/dist/js/bootstrap.js"
+              
+            ]
           }
         }
       }

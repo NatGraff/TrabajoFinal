@@ -6,6 +6,13 @@ div{
     background-color:rgb(166, 173, 169) ;
 }
 
-h1,h2{
+h1{
     display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+li h1{
+    font-size: large;
+    
 }

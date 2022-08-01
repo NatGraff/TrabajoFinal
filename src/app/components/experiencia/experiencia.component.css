@@ -10,4 +10,12 @@ h1{
 }
 h1,h2{
     display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+li h1{
+    font-size: large;
+    
+}
+
+

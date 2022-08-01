@@ -9,7 +9,10 @@ img{
     width:20%;
     height: 250px;
 }
-
+h1{
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 /*Etiqueta Nombre*/
 #nombre{
@@ -21,7 +24,6 @@ img{
 #titulo{
     text-align: center;
 }
-
 
 /*Foto de Perfil*/
     @media (min-width: 576px){
